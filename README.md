@@ -1,5 +1,5 @@
-# harmony-of-the-gospels
-Cross Referencing and side-by-side study of New Testament stories
+# The Harmony of the Gospels
+##### Cross Referencing and side-by-side study of New Testament stories
 
 My project, which I am naming “the Harmony of the Gospels” was to set up a cross referencing system as well as a side-by-side study program of the stories from the four Gospels in the New Testament. This consisted of a website, with a table of various stories from the four gospels, as well as links to read those stories side-by-side in each of the four gospels. Thus providing an easy way to get a harmonious view of many of the stories from the life of Jesus Christ. For simplicity's sake(and for the sake of time), I excluded any stories that were only in one of the four gospels, and only made separate pages for stories that were mentioned in all four of the gospels. 
 ## Time Log
